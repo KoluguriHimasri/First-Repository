@@ -1,4 +1,4 @@
 # First-Repository
-I'm Himasri Koluguri
-It's my first repository
+<br>I'm Himasri Koluguri<br>
+<br>It's my first repository<br>
 I'm very excited to learn github
